@@ -1,4 +1,4 @@
-function out=MVSICmodelParam2(X,opt,PHI)
+function out=MVSICmodelParam(X,opt,PHI)
 
 if nargin==0
     
